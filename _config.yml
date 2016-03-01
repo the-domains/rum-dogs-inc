@@ -2,6 +2,7 @@ name: 'Rum Dogs, Inc.'
 favicon: null
 layout_spectrum: 0.32843309780582786
 typography_spectrum: 0.619499898981303
+title: 'Rum Dogs, Inc.'
 cta:
   domain: null
   bucket: null
